@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "360",
-            "name": "360(SP)",
+            "name": "360(SP)11.23",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
