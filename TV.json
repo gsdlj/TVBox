@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "360",
-            "name": "360(SP)11.23",
+            "name": "360(SP1.24)",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -26,7 +26,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/bilibili.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/bilibili.json"
         },
         {
             "key": "csp_QQ",
@@ -36,7 +36,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "csp_MGTV",
@@ -46,7 +46,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "csp_IQIYI",
@@ -56,16 +56,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
-        },
-        {
-            "key": "APPTT",
-            "name": "图图（SP）",
-            "api": "csp_AppTT",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜1019.jar;md5;be69d0c9e96e8637ba98436236c82bf6"
         },
         {
             "key": "剧荒TV（SP）",
@@ -93,7 +84,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/nmys.json"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "图图(SP)",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.66.89:7788"
         },
         {
             "key": "csp_Lgyy",
@@ -103,15 +105,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "饭团",
-            "name": "饭团(SP)",
-            "api": "csp_Fantuan",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
         },
         {
             "key": "Bttoo",
@@ -196,15 +189,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Zjdr",
-            "name": "追剧达人(SP)",
-            "type": 3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_XBiu_1080ys",
             "name": "1080影视(XBiu)",
             "type": 3,
@@ -213,7 +197,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://1080p.tv/vodtype/2/id/{cateId}.html",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
         },
         {
             "key": "csp_XBiu_cokemv",
@@ -224,7 +208,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"
         },
         {
             "key": "csp_xbpq_子子影视",
@@ -234,7 +218,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/子子影视.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/子子影视.json"
         },
         {
             "key": "csp_xbpq_胖虎影视",
@@ -244,7 +228,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/胖虎影视.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/胖虎影视.json"
         },
         {
             "key": "csp_XYQBiu_神马影视",
@@ -254,8 +238,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/神马XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/神马XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "csp_XYQBiu_大米星球",
@@ -265,8 +249,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/大米XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/大米XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "csp_XYQBiu_虎牙直播",
@@ -276,8 +260,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/虎牙XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_0926.jar;md5;5555084b40f00191957d9aede81ecb5f"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/虎牙XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_0926.jar;md5;5555084b40f00191957d9aede81ecb5f"
         },
         {
             "key": "csp_XYQBiu_斗鱼直播",
@@ -287,16 +271,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/斗鱼XYQ.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
-        },
-        {
-            "key": "多多资源",
-            "name": "多多资源(切)",
-            "type": 1,
-            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/斗鱼XYQ.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "csp_xpath_qiumi",
@@ -306,7 +282,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/json/qiumi.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/json/qiumi.json"
         },
         {
             "key": "csp_XYQHiker_17zhibo",
@@ -316,8 +292,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/17k直播.json",
-            "jar": "https://kebedd69.github.io/TVbox-interface/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/17k直播.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/XYQPlugin_1010.jar;md5;fcd98e252d5b3cce900f0ce8143d8843"
         },
         {
             "key": "在线直播",
@@ -337,8 +313,8 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/1107甜蜜ali.jar;md5;60d763118f2f8a22fd6db9a1c176e6a1",
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
+            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
         },
         {
             "key": "找资源",
@@ -346,11 +322,12 @@
             "type": 3,
             "api": "csp_Zhaozy",
             "searchable": 1,
-            "playerType": 1,
+            "playerType": 2,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/1107甜蜜ali.jar;md5;60d763118f2f8a22fd6db9a1c176e6a1",
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+           //"jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
+          //  "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
+          "ext": "https://alitoken.kebedd69.repl.co/token.txt"
         },
         {
             "key": "upyunsou",
@@ -361,8 +338,8 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/1107甜蜜ali.jar;md5;60d763118f2f8a22fd6db9a1c176e6a1",
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+           "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
+            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
         },
         {
             "key": "yisou",
@@ -373,8 +350,8 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/1107甜蜜ali.jar;md5;60d763118f2f8a22fd6db9a1c176e6a1",
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+           "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
+            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
         },
         {
             "key": "AliPS",
@@ -385,8 +362,8 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://kebedd69.github.io/TVbox-interface/jar/1107甜蜜ali.jar;md5;60d763118f2f8a22fd6db9a1c176e6a1",
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
+            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
         },
         {
             "key": "push_agent",
@@ -396,7 +373,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://zdir.kebedd69.repl.co/public/TVBox/token.json"
+            "ext": "https://alitoken.kebedd69.repl.co/token.txt"
         }
     ],
     "parses": [
@@ -425,34 +402,10 @@
             "type": 1,
             "url": "https://k.json.icu/home/api?type=ys&uid=12406929&key=adgouwyCGIRSTUV046&url="
         },
-        {
+       {
             "name": "风起0",
             "type": 1,
-            "url": "https://drpy.liucn.repl.co/parse/api/dyg.js?url="
-        },
-        {
-            "name": "风起1",
-            "type": 0,
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            },
-            "url": "https://m3u8.co/api/?type=app&key=HkxDBJ2n38eCRLmpYh&url="
-        },
-        {
-            "name": "风起2",
-            "type": 0,
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            },
-            "url": "https://m3u8.co/api/?type=app&key=TqMo2BRQF0WssvMjPe&url="
-        },
-        {
-            "name": "风起3",
-            "type": 0,
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            },
-            "url": "https://m3u8.co/api/?type=app&key=nz1wfqcwJHdBVJDtT2&url="
+            "url": "http://47.108.39.237:55/api/?key=01g4LZuWQpF9pLfWRX&url="
         },
         {
             "name": "风起清河",
@@ -544,7 +497,12 @@
         {
             "name": "风起长林2",
             "type": 1,
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+            "url": "https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url="
+        },
+        {
+            "name": "风起长林3",
+            "type": 1,
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
         },
         {
             "name": "风起苍岚",
@@ -562,14 +520,9 @@
             "url": "https://jx.zhanlangbu.com/?url="
         },
         {
-            "name": "风起长安",
-            "type": 1,
-            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
-        },
-        {
             "name": "风起朔方",
             "type": 1,
-            "url": "https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="
+            "url": "https://chaloli.cn/api/?key=5a6158efe376db3b464957c3c11745c2&url="
         },
         {
             "name": "风起零陵",
@@ -995,52 +948,63 @@
     ],
     "rules": [
         {
-            "host": "www.sharenice.net",
+            "host": "www.6080dy1.com",
             "rule": [
-                "douyin.com",
-                "/play/"
-            ],
-            "filter": []
+                "m3u8.php",
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "default.365yg.com"
+            ]
+        },
+        {
+            "host": "www.agemys.cc",
+            "rule": [
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "zjmiao.com",
+            "rule": [
+                "play.videomiao.vip/API.php",
+                "time="
+            ]
         },
         {
             "host": "www.sharenice.net",
+            "rule": [
+                "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "qianpailive.com",
+                "vid="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "douyin.com/aweme",
+                "video_id="
+            ]
+        },
+        {
+            "host": "*",
             "rule": [
                 "huoshan.com",
                 "/item/video/"
-            ],
-            "filter": []
-        },
-        {
-            "host": "www.sharenice.net",
-            "rule": [
-                "sovv.qianpailive.com",
-                "vid="
-            ],
-            "filter": []
-        },
-        {
-            "host": "*",
-            "rule": [
-                "ysting.ysxs8.vip"
-            ],
-            "filter": []
-        },
-        {
-            "host": "pdsapi.aliyundrive.com",
-            "rule": [
-                "/redirect"
             ]
         },
         {
             "host": "*",
             "rule": [
-                "http((?!http).){26,}?\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)\\?.*"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
-                "http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)"
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv||mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv||mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"
             ]
         }
     ],
@@ -1101,6 +1065,7 @@
         "k.wudejia.com",
         "vivovip.mmszxc.top",
         "qiu.xixiqiu.com",
+        "qiaoji8.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
@@ -1118,5 +1083,5 @@
         }
     ],
     "wallpaper": "https://tool.weetai.cn/api",
-    "spider": "https://kebedd69.github.io/TVbox-interface/jar/甜蜜11201.jar;md5;d100cc847705024d0df64deb4287acb1"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/甜蜜0120.jar;md5;afdaa5d4cc809eebed7c7598d7bd8e98"
 }
