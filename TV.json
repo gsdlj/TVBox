@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "360",
-            "name": "360(SP1.24)",
+            "name": "360(SP2.13)",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://124.248.66.89:7788"
+            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
         },
         {
             "key": "csp_Lgyy",
@@ -314,7 +314,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
-            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
+            "ext": "http://upup.run.goorm.io/token.txt;asc"
         },
         {
             "key": "找资源",
@@ -326,8 +326,8 @@
             "quickSearch": 1,
             "filterable": 1,
            //"jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
-          //  "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
-          "ext": "https://alitoken.kebedd69.repl.co/token.txt"
+          //  "ext": "http://upup.run.goorm.io/token.txt;asc"
+          "ext": "http://upup.run.goorm.io/token.txt"
         },
         {
             "key": "upyunsou",
@@ -339,7 +339,7 @@
             "playerType": 1,
             "filterable": 0,
            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
-            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
+            "ext": "http://upup.run.goorm.io/token.txt;asc"
         },
         {
             "key": "yisou",
@@ -351,7 +351,7 @@
             "playerType": 1,
             "filterable": 0,
            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
-            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
+            "ext": "http://upup.run.goorm.io/token.txt;asc"
         },
         {
             "key": "AliPS",
@@ -363,7 +363,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/jar/阿里系列1216.jar;md5;6a1fe70595aaf12c959f5813986fd2a3",
-            "ext": "https://alitoken.kebedd69.repl.co/token.txt;asc"
+            "ext": "http://upup.run.goorm.io/token.txt;asc"
         },
         {
             "key": "push_agent",
@@ -373,7 +373,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://alitoken.kebedd69.repl.co/token.txt"
+            "ext": "http://upup.run.goorm.io/token.txt"
         }
     ],
     "parses": [
