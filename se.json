@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_biubiu_av播",
-      "name": "1av播",
+      "name": "1  av播",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "csp_biubiu_hsck",
-      "name": "2hsck",
+      "name": "2  hsck",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
