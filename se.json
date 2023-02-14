@@ -1473,5 +1473,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://pan.css.lc/api/v3/file/get/56906/XXX.jar?sign=Y0Dw6lSB1zu1qwAM4KZiCniU7Ho-vlmN3FxTbEvywoQ%3D%3A0"
+ // "spider": "https://pan.css.lc/api/v3/file/get/56906/XXX.jar?sign=Y0Dw6lSB1zu1qwAM4KZiCniU7Ho-vlmN3FxTbEvywoQ%3D%3A0"
+  "spider": "https://github.com/gsdlj/TVBox/blob/main/XXX.jar"
 }
