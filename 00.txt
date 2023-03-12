@@ -1,0 +1,12 @@
+{
+  "storeHouse"[
+ {
+     "sourceName":"正经仓库"，
+     "sourceUrl":"https://raw.githubusercontent.com/gsdlj/TVBox/main/4.txt"
+ } ,
+ {
+     "sourceName":"传媒仓库"，
+     "sourceUrl":"https://raw.githubusercontent.com/gsdlj/TVBox/main/TV.json"
+ }     
+  ]  
+}
