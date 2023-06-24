@@ -1,0 +1,25 @@
+{
+  "storeHouse": 
+  [
+      {
+           "sourceName": "🏆se🏆",
+           "sourceUrl": "https://raw.githubusercontent.com/gsdlj/TVBox/main/se.json"
+      },
+      {
+           "sourceName": "🏆aaa🏆",
+           "sourceUrl": "https://raw.githubusercontent.com/gsdlj/TVBox/main/aaa.txt"
+      },
+      {
+           "sourceName": "🏆888🏆",
+           "sourceUrl": "https://raw.githubusercontent.com/gsdlj/TVBox/main/888.txt"
+      },
+      {
+           "sourceName": "🏆4🏆",
+           "sourceUrl": "https://raw.githubusercontent.com/gsdlj/TVBox/main/4.txt"
+      },
+      {
+           "sourceName": "🏆大佬🏆",
+           "sourceUrl": ""
+      }
+  ]
+}
